@@ -25,7 +25,7 @@
 <details>
   <summary><b>⚡ GitHub Contribution Streak</b></summary>
   <br/>
-   <a href="https://github.com/Jtoro12"><img alt="Jtoro12 Contribution Streak" src="https://github-readme-streak-stats.Jtoro12.com/?user=Jtoro12&theme=tokyonight" /></a>
+   <a href="https://github.com/Jtoro12"><img alt="Jtoro12 Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jtoro12&theme=tokyonight" /></a>
   <br/>
 
 </details>
