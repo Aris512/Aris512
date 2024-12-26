@@ -51,8 +51,8 @@
 
 <br/>
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+## Social Media
+![](https://www.instagram.com/j_aris_r/profilecard/?igsh=MW01ZnZ0ZHVtbGlxMw==)
 
 
 
@@ -64,6 +64,4 @@
 </p>
 
 -----
-Credits: [Nneji123](https://github.com/Nneji123)
-
-Last Edited on: 4/30/2022
+Last Edited on: 12/26/2024
