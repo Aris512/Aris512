@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+also+studying+Computer+Engineering" /></a>
 </p>
 
-<p >I am a student of civil engineering in informatics, in Chile, I am interested in using java and in making small projects. 
+<p >Im a student of civil engineering in informatics from Chile, Im interested in using java and in making small projects. 
 </p>
 
 ## Projects
