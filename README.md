@@ -14,10 +14,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/Jtoro12/github-readme-stats"><img alt="Jtoro12 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jtoro12&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+    <a href="https://github.com/Aris512/github-readme-stats"><img alt="Aris512 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aris512&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jtoro12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Jtoro12" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aris512&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Aris512" height="192px"/>
   <br/>
   </p>
 </details>
@@ -25,7 +25,7 @@
 <details>
   <summary><b>⚡ GitHub Contribution Streak</b></summary>
   <br/>
-   <a href="https://github.com/Jtoro12"><img alt="Jtoro12 Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jtoro12&theme=tokyonight" /></a>
+   <a href="https://github.com/Aris512"><img alt="Aris512 Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aris512&theme=tokyonight" /></a>
   <br/>
 
 </details>
