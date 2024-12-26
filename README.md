@@ -53,7 +53,7 @@
 
 ## Social Media
 <a href="https://www.instagram.com/j_aris_r/profilecard/?igsh=MW01ZnZ0ZHVtbGlxMw==" target="_blank">
-<img src=https://static.vecteezy.com/system/resources/previews/019/874/351/non_2x/instagram-apps-icon-free-png.png alt=Instagram style="margin-bottom: 1 px;" />
+<![file](https://github.com/user-attachments/assets/ae1658c8-f2e4-470a-bdf8-edb2af79efef) alt=Instagram style="margin-bottom: 1 px;" />
 
 
 
