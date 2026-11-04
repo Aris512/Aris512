@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ts,python,html,mysql,linux,bash,git,github,vscode&perline=10&theme=dark" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=java,ts,python,html,postgres,mysql,linux,bash,git,github,vscode&perline=11&theme=dark" alt="Tech stack" />
   </a>
 </p>
 
@@ -35,19 +35,23 @@
 
 ### 🚀 Featured projects
 
-<p align="center">
-  <a href="https://github.com/Aris512/automail-3clicks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aris512&repo=automail-3clicks&theme=tokyonight&hide_border=true" alt="automail-3clicks: cold email automation"/></a>
-  <a href="https://github.com/Aris512/sistemaPractica-UBB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aris512&repo=sistemaPractica-UBB&theme=tokyonight&hide_border=true" alt="sistemaPractica-UBB: internship management system for teaching programs"/></a>
-</p>
+#### 📧 [automail-3clicks](https://github.com/Aris512/automail-3clicks)
+Cold email automation: send personalized outreach emails in just 3 clicks.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+#### 🎓 [sistemaPractica-UBB](https://github.com/Aris512/sistemaPractica-UBB)
+Internship management system for teaching programs at Universidad del Bío-Bío.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aris512&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Aris512 GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aris512&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
+### 🔥 Contribution streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Aris512&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
