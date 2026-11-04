@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Computer+Engineering+Student+from+Chile;Python+%26+Django+Developer;Exploring+AI+%26+Recommender+Systems;Always+building+small+projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Computer+Engineering+Student+from+Chile;Java+%7C+TypeScript+%7C+Python;Exploring+AI+%26+Recommender+Systems;Always+building+small+projects" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <!-- 👇 Replace YOUR-LINKEDIN and your-email@example.com with your real links -->
   <a href="mailto:javier.toro2301@alumnos.ubiobio.cl"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Email"/></a>
+  <a href="https://github.com/Aris512?tab=repositories"><img src="https://img.shields.io/badge/Repositories-1a1b27?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="Repositories"/></a>
   <img src="https://komarev.com/ghpvc/?username=Aris512&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
@@ -17,9 +17,9 @@
 ### 🧑‍💻 About me
 
 - 🎓 Studying **Computer Engineering** (Ingeniería Civil en Informática) in Chile
-- 🌱 Currently working with **Java, typescript**, and learning about **AI**
+- 🌱 Currently working with **Java, TypeScript and Python**, and learning about **AI**
 - 🛠️ I enjoy building small projects and deploying them on servers
-
+- 📫 Reach me at **javier.toro2301@alumnos.ubiobio.cl**
 
 ---
 
@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,mysql,bash,git,github,vscode&perline=7&theme=dark" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=java,ts,python,html,mysql,linux,bash,git,github,vscode&perline=10&theme=dark" alt="Tech stack" />
   </a>
 </p>
 
@@ -35,10 +35,9 @@
 
 ### 🚀 Featured projects
 
-<!-- 👇 Replace REPO_1 ... REPO_4 with the exact names of your repositories -->
 <p align="center">
-  <a href="[https://github.com/Aris512/REPO_1](https://github.com/Aris512/automail-3clicks)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aris512&repo=REPO_1&theme=tokyonight&hide_border=true" alt="Envios de correos en frio"/></a>
-  <a href="[https://github.com/Aris512/REPO_2](https://github.com/Aris512/sistemaPractica-UBB)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aris512&repo=REPO_2&theme=tokyonight&hide_border=true" alt="Sistemas de practicas de pedagogias"/></a>
+  <a href="https://github.com/Aris512/automail-3clicks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aris512&repo=automail-3clicks&theme=tokyonight&hide_border=true" alt="automail-3clicks: cold email automation"/></a>
+  <a href="https://github.com/Aris512/sistemaPractica-UBB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aris512&repo=sistemaPractica-UBB&theme=tokyonight&hide_border=true" alt="sistemaPractica-UBB: internship management system for teaching programs"/></a>
 </p>
 
 ---
