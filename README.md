@@ -37,10 +37,8 @@
 
 <!-- 👇 Replace REPO_1 ... REPO_4 with the exact names of your repositories -->
 <p align="center">
-  <a href="https://github.com/Aris512/REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aris512&repo=REPO_1&theme=tokyonight&hide_border=true" alt="REPO_1"/></a>
-  <a href="https://github.com/Aris512/REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aris512&repo=REPO_2&theme=tokyonight&hide_border=true" alt="REPO_2"/></a>
-  <a href="https://github.com/Aris512/REPO_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aris512&repo=REPO_3&theme=tokyonight&hide_border=true" alt="REPO_3"/></a>
-  <a href="https://github.com/Aris512/REPO_4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aris512&repo=REPO_4&theme=tokyonight&hide_border=true" alt="REPO_4"/></a>
+  <a href="[https://github.com/Aris512/REPO_1](https://github.com/Aris512/automail-3clicks)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aris512&repo=REPO_1&theme=tokyonight&hide_border=true" alt="Envios de correos en frio"/></a>
+  <a href="[https://github.com/Aris512/REPO_2](https://github.com/Aris512/sistemaPractica-UBB)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aris512&repo=REPO_2&theme=tokyonight&hide_border=true" alt="Sistemas de practicas de pedagogias"/></a>
 </p>
 
 ---
