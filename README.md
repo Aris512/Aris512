@@ -8,8 +8,7 @@
 
 <p align="center">
   <!-- 👇 Replace YOUR-LINKEDIN and your-email@example.com with your real links -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Email"/></a>
+  <a href="mailto:javier.toro2301@alumnos.ubiobio.cl"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=Aris512&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
@@ -18,9 +17,9 @@
 ### 🧑‍💻 About me
 
 - 🎓 Studying **Computer Engineering** (Ingeniería Civil en Informática) in Chile
-- 🌱 Currently working with **Python, Django and C**, and learning about **AI**
-- 🛠️ I enjoy building small projects and deploying them on Linux servers
-- 💬 Ask me about Python, Django, Java or C
+- 🌱 Currently working with **Java, typescript**, and learning about **AI**
+- 🛠️ I enjoy building small projects and deploying them on servers
+
 
 ---
 
@@ -28,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,java,c,html,css,js,mysql,linux,bash,git,github,vscode&perline=7&theme=dark" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=java,html,mysql,bash,git,github,vscode&perline=7&theme=dark" alt="Tech stack" />
   </a>
 </p>
 
